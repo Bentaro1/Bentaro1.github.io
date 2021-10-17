@@ -1,6 +1,13 @@
 @media (max-width: 1024px) {
   body {
-    background: #c7b39b url(search(1024x768).png;
+    background: #c7b39b url(search(1024x768).png);
     color: #fff; /* Color of text. */
-   	}
+   	  }
+}
+
+@media (min-width: 1200px) {
+    body {
+    background: #c7b39b url(search.png);
+    color: #fff; /* Color of text. */
+   	  }
 }
