@@ -56,11 +56,6 @@ h1 {
   color: black;
 }
 
-body {
-    background: #c7b39b url(search.png); /* Color of background and location to this image. */
-    color: #fff; /* Color of text. */
-   	}
-
 #srcimg {
   background: #c7b39b url(image-search.png); /* Color of background and location to this image. */
   color: #fff; /* Color of text. */
