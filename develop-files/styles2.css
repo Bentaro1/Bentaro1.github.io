@@ -84,12 +84,11 @@ div {
 
 #sahe1, #sahe2, #sahe3 {
 	font-size: 30px;
-  border-radius: 15px;
-  width: 900px;
-  height: 25px;
+  	width: 900px;
+  	height: 30px;
 	margin: 5px;
-  padding: 10px;
-  color: grey;
+  	padding: 10px;
+  	color: grey;
 	position: relative; top: -80px; right: 60px;
 }
 
