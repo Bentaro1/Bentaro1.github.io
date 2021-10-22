@@ -82,7 +82,7 @@ div {
   color: #fff; /* Color of text. */
 }
 
-#sahe1, #sahe2, #sahe3 {
+#sahe1, #sahe2, #sahe3, #sahe4 {
 	font-size: 24px;
   	width: 600px;
   	height: 24px;
@@ -113,17 +113,7 @@ div {
   color: black;
 }
 
-#sahe4 {
-	font-size: 30px;
-  border-radius: 15px;
-  width: 900px;
-  height: 20px;
-  padding: 10px;
-	margin-left: 5px;
-	margin: 10px;
-  color: grey;
-	position: relative; left: -3px; top: -85px;
-}
+
 
 #srchq, #srchs, #srchd, #srchf {
 	text-align: left;
